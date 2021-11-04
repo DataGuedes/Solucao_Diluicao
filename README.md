@@ -1,5 +1,5 @@
-# System.dilution
-Sistemas criado para facilitar a forma de diluir produtos
+# Sistema de diluição - Solução
+Pequeno projeto para solucionar alguns empecilho durante o dia
 
 <h1>Sistema de diluição</h1>
 
